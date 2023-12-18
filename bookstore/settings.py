@@ -44,7 +44,7 @@ INSTALLED_APPS = [
     "order.apps.OrderConfig",
     "crispy_forms",
     "bootstrap5",
-    "crispy_bootstrap4",
+    "crispy_bootstrap5",
 ]
 CRISPY_TEMPLATE_PACK = "bootstrap5"
 
